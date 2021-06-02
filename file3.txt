@@ -1,2 +1,2 @@
 Changed on develop 2
-Test of publish 3
+Test of publish 4
