@@ -1,13 +1,1 @@
-Third file
-New line
-Another line
-Line 4
-Line 5
-Line 6
-Change 7 on master
-Change 8 on master
-Change 9 on master
-Change 10 on master
-Change 11 on master
-Test on fork master 1
-Clean 1
+Changed on develop 2
