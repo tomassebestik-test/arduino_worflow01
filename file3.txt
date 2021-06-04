@@ -13,3 +13,4 @@ With PR number 1
 Read gist 2
 Change logtrace 09
 Hit and wait 1
+Hit and wait REFACTOR 1
