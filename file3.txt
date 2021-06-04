@@ -12,3 +12,4 @@ Test on develop branch BACK TO PYTHON 2
 With PR number 1
 Read gist 2
 Change logtrace 09
+Hit and wait 1
